@@ -1,5 +1,4 @@
 # Distributed Music Streaming Simulation
-**CS6650 - Milestone 2 Report (Week 1–2)**
 Team: Ananyaa Mylsamy · Manasha Sekar
 
 ---
@@ -508,6 +507,3 @@ cd ../terraform && terraform destroy
 ```
 
 ---
-
-## Authors
-Ananyaa Mylsamy · Manasha Sekar
