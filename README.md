@@ -329,8 +329,8 @@ All runs: **1,000 concurrent users**, fixed 320kbps, 7-minute runs on AWS ECS Fa
 
 **What happened:**
 - CDN circuit opened immediately under 1,000 users. All chunks fell back to local CPU generation (500k iterations/chunk).
-- p50 spiked to 2,700ms, p99 to 7,400ms. RPS settled at 339 — same CPU ceiling as Experiment 1.
-- Latency chart shows oscillating spikes: circuit trips (slow) → resets after 30s (fast) → trips again.
+- p50 spiked to 2,700ms, p99 to 7,400ms. RPS settled at 339 same CPU ceiling as Experiment 1.
+- Latency chart shows oscillating spikes: circuit trips (slow) -> resets after 30s (fast)  trips again.
 
 ---
 
