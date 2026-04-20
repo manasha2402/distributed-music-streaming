@@ -75,7 +75,6 @@ documentation/
   DETAILED_REPORT.md                      — Full experiment write-up with results and analysis
   EXPERIMENT_REPORT.pdf                   — Final submitted report (PDF)
   PROJECT_MANAGEMENT.md                   — Design evolution, division of work, decisions log
-  AnanyaaLearning.pdf                     — Individual reflection (Ananyaa Mylsamy)
 ```
 ---
 
